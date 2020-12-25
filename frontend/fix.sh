@@ -1,0 +1,1 @@
+cat ./fix.js > ./node_modules/ra-core/esm/dataProvider/fetch.js
